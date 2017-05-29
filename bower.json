@@ -1,0 +1,29 @@
+{
+  "name": "angular-material-source",
+  "description": "The AngularJS Material project is an implementation of Material Design in AngularJS. This project provides a set of reusable, well-tested, and accessible Material Design UI components. AngularJS Material is supported internally at Google by the AngularJS, Material Design UX and other product teams.",
+  "main": "./dist/angular-material.js",
+  "authors": [
+    "Ivan Moreno <i.moreno@city-ss.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "client-side",
+    "browser",
+    "material",
+    "material-design",
+    "design",
+    "angularjs",
+    "angular.js",
+    "css",
+    "components",
+    "google"
+  ],
+  "homepage": "https://github.com/Josmorsot/material",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
